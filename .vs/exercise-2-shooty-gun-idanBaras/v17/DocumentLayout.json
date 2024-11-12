@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F0D3FA-470E-12DB-F8F6-31F0972BCEEE}|Assembly-CSharp.csproj|c:\\unity projects\\exercise-2-shooty-gun-idanbaras\\assets\\scripts\\shootygunscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F0D3FA-470E-12DB-F8F6-31F0972BCEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shootygunscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F0D3FA-470E-12DB-F8F6-31F0972BCEEE}|Assembly-CSharp.csproj|c:\\unity projects\\exercise-2-shooty-gun-idanbaras\\assets\\scripts\\bulletshotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F0D3FA-470E-12DB-F8F6-31F0972BCEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletshotscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F0D3FA-470E-12DB-F8F6-31F0972BCEEE}|Assembly-CSharp.csproj|C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\assets\\scripts\\gunaimscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F0D3FA-470E-12DB-F8F6-31F0972BCEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gunaimscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F0D3FA-470E-12DB-F8F6-31F0972BCEEE}|Assembly-CSharp.csproj|C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\assets\\scripts\\movementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F0D3FA-470E-12DB-F8F6-31F0972BCEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F0D3FA-470E-12DB-F8F6-31F0972BCEEE}|Assembly-CSharp.csproj|C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\assets\\scripts\\playercontrolscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F0D3FA-470E-12DB-F8F6-31F0972BCEEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrolscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bulletShotScript.cs",
+              "DocumentMoniker": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\Assets\\scripts\\bulletShotScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\bulletShotScript.cs",
+              "ToolTip": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\Assets\\scripts\\bulletShotScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\bulletShotScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:28:47.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShootyGunScript.cs",
+              "DocumentMoniker": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\Assets\\scripts\\ShootyGunScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\ShootyGunScript.cs",
+              "ToolTip": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\Assets\\scripts\\ShootyGunScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\ShootyGunScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:16:11.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GunAimScript.cs",
+              "DocumentMoniker": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\Assets\\scripts\\GunAimScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GunAimScript.cs",
+              "ToolTip": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\Assets\\scripts\\GunAimScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\GunAimScript.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:58:54.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerControlScript.cs",
+              "DocumentMoniker": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\Assets\\scripts\\PlayerControlScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerControlScript.cs",
+              "ToolTip": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\Assets\\scripts\\PlayerControlScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerControlScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:42:11.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovementScript.cs",
+              "DocumentMoniker": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\Assets\\scripts\\MovementScript.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MovementScript.cs",
+              "ToolTip": "C:\\unity projects\\exercise-2-shooty-gun-idanBaras\\Assets\\scripts\\MovementScript.cs",
+              "RelativeToolTip": "Assets\\scripts\\MovementScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:30:09.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
